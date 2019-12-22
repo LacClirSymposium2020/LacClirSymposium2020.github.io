@@ -6,5 +6,15 @@ language: en
 
 
 
-This symposium will gather scholars, digital humanists, and partners working in archives and libraries in Latin America and the Caribbean to discuss on the ground realities and concerns about the meanings of capacity building. This two day symposium will be hosted in April 2020 at Florida International University in Miami, F.L. The symposium participants include four CLIR Postdoctoral Fellows in Data Curation for Latin American and Caribbean Studies, two guest speakers, and four additional participants from partner organizations. 
+This symposium will center the voices of a group of archives in Latin America and the Caribbean by providing a forum for stakeholders in the region to come together in conversation to share strategies and identify common areas of need. This steps outside the neoliberal model of post-custodial archiving and creates an opportunity for digital archiving to be driven by archives, libraries, and scholars in Latin America and the Caribbean. Recommendations for working with archives and libraries in the region will be formulated by these stakeholders based on the needs of these content producers and the particular challenges faced in their respective regions.
 
+The project is funded by a [CLIR Microgrant](https://www.clir.org/fellowships/postdoc/projsandpubs/) with generous support from The Andrew W. Mellon Foundation. 
+
+Organized by: 
+
+- Hadassah St. Hubert, Florida International University
+- [Jennifer Isasi](https://dr.jenniferisasi.com), The University of Texas at Austin 
+
+- Nicté Fuller Medina, The University of California, Los Angeles
+
+- Margie Montañez, The University of New Mexico
