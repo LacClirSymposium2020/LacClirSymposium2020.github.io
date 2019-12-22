@@ -48,9 +48,11 @@
       {{ content }}
     </main>
 
-  <footer>
-  <small>{{ site.footer[page.language] | markdownify }}</small> -->
-  </footer>
+    {% footer.html %}
+    <!-- 
+    <footer>
+  <small>{{ site.footer[page.language] | markdownify }}</small>
+  </footer>--> 
 
   </body>
 </html>
