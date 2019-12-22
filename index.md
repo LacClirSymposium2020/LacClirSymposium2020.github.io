@@ -1,10 +1,9 @@
 ---
 layout: default
+title: Capacity Assessment of Latin American and Caribbean Partners
 language: en
 ---
 
-# Welcome
-
-This is our website for a multilingual symposium 
+About the symposium and the microgrant 
 
 
