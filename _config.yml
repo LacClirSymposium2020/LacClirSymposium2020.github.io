@@ -1,5 +1,5 @@
-title: Multilingual DH
-url: http://multilingualdh.org
+title: "Capacity Assessment of Latin American and Caribbean Partners: A Symposium about Open-Access, Technological Needs, and Institutional Sustainability"
+url: http://LacClirSymposium2020.github.io
 
 markdown: kramdown
 highlighter: rouge
@@ -9,10 +9,10 @@ paginate: 5
 # navigation:
 #   - title: About
 #     url: /index.html
-#   - title: Resources
-#     url: /resources
-#   - title: DH 2019 Workshop
-#     url: /dh2019
+#   - title: Speakers
+#     url: /speakers
+#   - title: The Symposium
+#     url: /symposium
 
 name: 
   en: Multilingual DH
