@@ -1,10 +1,10 @@
 ---
 layout: default
-title: DH 2019 Workshop
+title: Symposium
 language: en
 ---
 
-# ADHO DH2019 Workshop
+# Symposium Miami 
 
 [ADHO DH2019 Workshop](https://dh2019.adho.org/workshops/) "Towards Multilingualism In Digital Humanities: Achievements, Failures And Good Practices In DH Projects With Non-latin Scripts"**
 
@@ -80,7 +80,7 @@ Download workshop timetable (without abstracts) in pdf format: https://box.fu-be
 
 ## 09:00  - 09:15 Introduction to the workshop 
 Martin Lee, Cosima Wagner; Freie Universität Berlin, University Library / Campus Library (Germany)
- 
+
 
 
 ---
@@ -89,20 +89,19 @@ Martin Lee, Cosima Wagner; Freie Universität Berlin, University Library / Campu
 
 ### **09:15 - 09:40: „Ancient Egyptian Hieratic Script – Aspects of Digital Paleography for a NLS“**
 Presenters: Svenja A. Gülden, Simone Gerhards, Tobias Konrad; Akademie der Wissenschaften und der Literatur | Mainz (Germany): Project “Altägyptische Kursivschriften” (Ancient Egyptian cursive scripts); Johannes Gutenberg University Mainz (Germany); Technische Universität Darmstadt (Germany)
- 
+
 *Abstract*
 The project aims to provide an online database and tool for paleographic research of ancient Egyptian cursive scripts (Gülden et al., 2017; Gerhards et al., 2018). In addition to the monumental hieroglyphs, different cursive scripts were used over approximately 3000 years. The so-called Hieratic Script was used for various genres such as literary, religious and administrative texts. Hieratic could be written with ink on papyrus, leather, wooden panels or other materials and even be carved in stone. The approximately 600-700 individual characters of the script can vary immense in their graphical appearance.
- 
+
 Until now, there are no satisfactory OCR techniques or any other pattern recognition tools that can be used for hieratic script. Therefore, we need other digital methods and formats to detect similar signs and analyze the script.
- 
+
 In the first workshop session, we would like to show the first steps of our workflow beginning with digitizing the ancient Egyptian sources, recording the single signs in the database with links to metadata and in connection to other characters, working our way up to/and ending with preparing the data for digital analysis and a repository.
 In the second part we will present preliminary methods for analyzing raster as well as vector graphics. Furthermore, we would like to discuss the needs of projects that deal with similar paleographic questions of NLS and the possibilities of data structure, analysis, front end visualization and the data repository.
- 
- 
-**Gerhards, S., Gülden, S. A., Konrad, T., Leuk, M., Rapp, A., and Verhoeven-van Elsbergen, U.** (2018). Aus erster Hand – 3000 Jahre Kursivschrift der Pharaonenzeit digital analysiert. In: Vogeler, G. (ed.), DHd 2018. Kritik der digitalen Vernunft. Konferenzabstracts. Universität zu Köln 26. Februar bis 2. März 2018, Köln, pp. 357–359.
- 
-**Gülden, S. A., Krause, C., and Verhoeven, U.** (2017). Prolegomena zu einer digitalen Paläographie des Hieratischen. In: Busch, H., Fischer F., and Sahle P. (eds.), Kodikologie und Paläographie im digitalen Zeitalter 4, Schriften des Instituts für Dokumentologie und Editorik, Nordersteds, pp. 253–273.
 
+
+**Gerhards, S., Gülden, S. A., Konrad, T., Leuk, M., Rapp, A., and Verhoeven-van Elsbergen, U.** (2018). Aus erster Hand – 3000 Jahre Kursivschrift der Pharaonenzeit digital analysiert. In: Vogeler, G. (ed.), DHd 2018. Kritik der digitalen Vernunft. Konferenzabstracts. Universität zu Köln 26. Februar bis 2. März 2018, Köln, pp. 357–359.
+
+**Gülden, S. A., Krause, C., and Verhoeven, U.** (2017). Prolegomena zu einer digitalen Paläographie des Hieratischen. In: Busch, H., Fischer F., and Sahle P. (eds.), Kodikologie und Paläographie im digitalen Zeitalter 4, Schriften des Instituts für Dokumentologie und Editorik, Nordersteds, pp. 253–273.
 
 ---
 
@@ -126,7 +125,7 @@ In the western academia, software to support the research around the Arabic lang
 ---
 ### **10:05 - 10:30 “SHINE: A Novel API Standard &amp; Data Model to Facilitate the Granular Representation and Cross-referencing of Multi-lingual Textual Resources”**
 Presenters: Pascal Belouin, Sean Wang (Max Planck Institute for the History of Science; Department III, RISE Project &#34;Research Infrastructure for the Study of Eurasia”, Berlin, Germany)
- 
+
 *Abstract*
 The granular representation and cross-referencing of online digital textual resources across editions in various languages in a machine-readable format is a complex problem, even more so when considering resources available in non-Latin scripts due to the large number of potential multilingual editions of the same text. Various solutions to this issue have been proposed over the years: one of the most notable initiatives is the Canonical Text Services protocol [1] (hereinafter referred to as CTS). A more recent ongoing project, the Distributed Text Services protocol [2], aims to propose a standard which addresses some of the limitations and issues encountered in the development and real-world use of CTS.
 
@@ -137,7 +136,6 @@ Over the last two years, Department III of the Max Planck Institute for the Hist
 [1] https://wiki.digitalclassicist.org/Canonical_Text_Services, accessed 27/03/2019
 [2] https://github.com/distributed-text-services/specifications, accessed 27/03/2019
 [3] https://rise.mpiwg-berlin.mpg.de/pages/doc_for_developers, accessed 27/03/2019
-
 
 ---
 ### 10:30 - 10:45 &#34;Expectations and reality: developing an English-Japanese semantic web environment for the Late Hokusai research project&#34;
@@ -152,10 +150,8 @@ Reflecting on the learning curve of the research project, the paper revisits the
 
  
 
-
 ---
 *10:45 - 11:00     Coffee Break*
-
 
 ---
 ## 09:15 - 12:35 NLS &amp; DH: discussing platforms
@@ -168,7 +164,6 @@ In designing the digital support for the project Kalīla and Dimna – AnonymCla
 
 This system is realized in a web platform, which we are currently developing. The Platform consists of a set of tools for administrating project tasks, text description and criticism, visual layout analysis of pages, transcription and linguistic annotation of texts, and literary segmentation and annotation of passages. All of these tools entirely depend on manual entry by an experienced user and do not involve automation yet. The code for the platform will be available in separate modules and packages with thoroughly documented APIs. We aspire that our open-source standards and modules will eventually produce an ecosystem of tools in our field by being an optimal option for developers working in computational literary studies in either Arabic or other languages.
 
- 
 ---
 
 
@@ -197,7 +192,6 @@ This presentation will focus on how MARKUS has been used by researchers and stud
 In the first part, HU Jing will introduce the main functionality of MARKUS, including primary source text discovery and import from textual databases, the automated and manual mark-up of default named entities and user-generated tags, keyword discovery, batch mark-up, linked Chinese, Korean, and Manchu reference materials, data curation, content filtering, data export, as well as the associated textual analysis and data visualization platforms linked with MARKUS. 
 In the second part, KIM Ba-ro will share his expertise in data creation for the K-MARKUS platform. He proposes an ontology model on the basis of the concept of Linked Open Data to break through the limitations for data integration caused by confidentiality, inaccuracy, and schema difference. Lastly, HU Jing will demonstrate a pilot study on a set of Korean records Yŏnhaengnok (Chosŏn Travelogues to Beijing) by using MARKUS and K-MARKUS in combination to show how the multilingual dimension of MARKUS benefits transnational studies.
 
-
 ---
 ## 12:05 - 12:35 NLS &amp; DH: discussing standards &amp; OCR
 
@@ -223,54 +217,47 @@ This summer, the new Centre of Asian and Transcultural Studies (CATS) opens its 
 [6] ECPO presentation: https://www.slideshare.net/MatthiasArnold/early-chinese-periodicals-online-ecpo-from-digitization-towards-open-data-jadh2018 
 [7] Agent service presentation: https://www.slideshare.net/MatthiasArnold/transforming-data-silos-into-knowledge-early-chinese-periodicals-online-ecpo 
 
-
 ---
 
 
 ### **12:20 - 12:35 “No text - no mining. And what about dirty OCR? Training, optimizing, and testing of OCR/KWS-Methods for Chinese Scripts”**
 Presenter: Amir Moghaddass (Freie Universität Berlin, Campus Library, Project “Alt-Sinica”, Germany)
- 
+
 *Abstract*
 For DH practitioners in the latin script world, some of the questions raised in this paper might appear to have been solved long ago. For the non-latin script (NLS) digital humanities, especially for libraries and other institutions engaged in NLS-digitization projects, a seemingly simple question still poses a considerable challenge: how can we produce machine-readable texts that allow for the application of scientifically verifiable DH-methods? The presentation will address this problem in relation to pre-modern Chinese in more detail. It will undertake a close examination of current digitization practices and their output to assess the scope, status and best practice of the methods applied.
- 
+
 The gap between the wealth of material from the premodern textual traditions of the non-western world, especially by Chinese, Japanese, Arabic and Persian authors, on the one hand and the small portion of texts from this body available in a digital form on the other, was aptly labeled the „Asia deficit within Digital Humanities“ (Mullaney, 2016). 
 While this gap is noticeably closing with the availability of major libraries’digital collections of pre-modern Chinese texts, a severe quality problem is coming to light: the vast majority of OCRed NLS-texts is of a conspicuously low level of accuracy and, as a consequence, unusable for or even detrimental to valid computational analysis. 
 
 The paper will explore alternative approaches to OCR for NLS, text enrichment, and post-digitization correction to better facilitate scholarly access to digital historical texts.
- 
+
 **Mullaney, Thomas S.** (2016). Digital Humanities Q and A with Thomas S. Mullaney. *The China Policy Institute blog* (University of Nottingham).
 http://theasiadialogue.com/2016/06/06/digital-humanities-qa-with-tom-mullaney (accessed 25 March 2019).
 
 
 
-
 ---
  ## 12:35 - 13:00 Discussion and wrap-up of the first part of the workshop
- 
 
 
 
 ---
 *13:00  - 14:00 LUNCH*
 
-
 ---
 
 ## 14:00 - 15:30 Hands-on Session 
 up to 9 stations: tools, platforms, workflows
-
 
 ---
 
 
 *15:30 - 15:45 Coffee Break*
 
-
 ---
 ## 15:45 - 17:15 Working group session: 
 Case for action: next steps and infrastructure for NLS 
 Market place: definition and selection of topics, to be discussed by presenters and participants of the workshop
-
 
 ---
 ## 17:15 - 18:00 Presentation of the results of the working group session and final discussion / wrap-up
