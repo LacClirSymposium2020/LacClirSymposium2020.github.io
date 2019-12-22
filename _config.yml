@@ -28,7 +28,7 @@ footer:
   fr: Un symposium CLIR financé par Mellon. Cadre Web multilingue par http://multilingualdh.org
 exclude: [README.md]
 permalink: pretty
-repository: mrzool/polyglot-jekyll
+repository: LacClirSymposium2020/LacClirSymposium2020.github.io
 base-url: ""
 
 social:
