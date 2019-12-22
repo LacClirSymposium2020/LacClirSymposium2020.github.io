@@ -47,11 +47,25 @@
     <main>
       {{ content }}
     </main>
-    <!-- 
-    <footer>
-  <small>{{ site.footer[page.language] | markdownify }}</small>
-  </footer>--> 
+  
+    <!--   <footer> --> 
+  <!-- <small>{{ site.footer[page.language] | markdownify }}</small> --> 
+  <!-- </footer> --> 
 
   </body>
-  {% footer.html %}
+ 
+  <footer>
+
+    <div class="wrapper">
+      &copy; Copyright {{ site.time | date: '%Y' }} {{ site.name }}.
+      {{ site.footer_text }}
+      {% if site.last_updated %}
+          Last updated: {{ site.last_updated }}.
+      {% endif %}
+    </div>
+  
+  </footer>
+  
+
+
 </html>
