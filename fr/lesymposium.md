@@ -1,6 +1,6 @@
 ---
 layout: default
-title: La conférence
+title: Le symposium
 language: fr
 ---
 
