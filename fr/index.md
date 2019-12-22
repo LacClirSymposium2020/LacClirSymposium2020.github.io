@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Évaluation des capacités des partenaires d'Amérique Latine et des Caraïbes
+title: Le projet
 language: fr
 ---
 

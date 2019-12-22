@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluación de la capacidad de los socios de América Latina y el Caribe
+title: El proyecto
 language: es
 ---
 
