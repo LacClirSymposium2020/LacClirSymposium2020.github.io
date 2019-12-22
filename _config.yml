@@ -23,7 +23,7 @@ description:
   es: Un simposio sobre acceso abierto, necesidades tecnológicas y sostenibilidad institucional
   fr: Un symposium sur le libre accès, les besoins technologiques et la durabilité institutionnelle
 footer:
-  en: A Mellon funded CLIR symposium. Multilingual web frame by <a href="http://multilingualdh.org">multilingualdh</a>
+  en: A Mellon funded CLIR symposium. Multilingual web frame by <a href="http://multilingualdh.org">multilingualdh</a> <img src="/assets/clir.jpg" />
   es: Un simposio CLIR financiado por Mellon. Marco web multilingue de <a href="http://multilingualdh.org">multilingualdh</a>
   fr: Un symposium CLIR financé par Mellon. Cadre Web multilingue par <a href="http://multilingualdh.org">multilingualdh</a>
 exclude: [README.md]
