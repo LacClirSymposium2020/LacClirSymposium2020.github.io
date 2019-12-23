@@ -30,21 +30,12 @@
     <nav class="language-switcher">
       {% if page.name contains "index" %}
         <a class="en" href="{{ site.baseurl }}/">EN</a>
-        <a class="de" href="{{ site.baseurl | append: "/es" }}">ES</a>
-        <a class="it" href="{{ site.baseurl | append: "/fr" }}">FR</a>
-        <!-- Fixing issue with chang from ES and FR to EN in keynote and symposium pages-->
-        {% if page.name contains "speakers" %}
-        <a class="en" href="{{ site.baseurl }}/">EN</a>
-        <a class="de" href="{{ site.baseurl | append: "/es" }}">ES</a>
-        <a class="it" href="{{ site.baseurl | append: "/fr" }}">FR</a>
-        {% if page.name contains "symposium" %}
-        <a class="en" href="{{ site.baseurl }}/">EN</a>
-        <a class="de" href="{{ site.baseurl | append: "/es" }}">ES</a>
-        <a class="it" href="{{ site.baseurl | append: "/fr" }}">FR</a>
+        <a class="es" href="{{ site.baseurl | append: "/es" }}">ES</a>
+        <a class="fr" href="{{ site.baseurl | append: "/fr" }}">FR</a>
       {% else %}
         <a class="en" href="{{ site.baseurl | append: page.handle }}">EN</a>
-        <a class="de" href="{{ site.baseurl | append: "/es" | append: page.handle }}">ES</a>
-        <a class="it" href="{{ site.baseurl | append: "/fr" | append: page.handle }}">FR</a>
+        <a class="es" href="{{ site.baseurl | append: "/es" | append: page.handle }}">ES</a>
+        <a class="fr" href="{{ site.baseurl | append: "/fr" | append: page.handle }}">FR</a>
       {% endif %}
     </nav>
 
