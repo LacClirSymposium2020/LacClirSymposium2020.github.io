@@ -10,7 +10,7 @@ We are very grateful to have two of the most important current voices of the dig
 
 Buenos Aires, Argentina
 
-<img src="/assets/gimena-rio.jpg" width="500" height="167" alt="Profile image of Gimena del Rio Riande" title="Credit: Jennifer Millar, Higher School of Economics">
+<img src="/assets/gimena_rio.jpg" width="500" height="167" alt="Profile image of Gimena del Rio Riande" title="Credit: Jennifer Millar, Higher School of Economics">
 
 Dr. del Rio is a researcher at the [*Seminario de Edicion y Crítica Textual* ](http://www.iibicrit-conicet.gov.ar/)(SECRIT-IIBICRIT) of the National Scientific and Technical Research Council (CONICET. Buenos Aires, Argentina) and External Professor at [LINHD-UNED](http://linhd.uned.es/) (Madrid, Spain) and the University of Buenos Aires. Her main academic interests deal with Digital Scholarly Edition, the use, and methodologies of scholarly digital tools as “situated practices”, and the interaction of the global and the local in the development of academic disciplines.
 
@@ -22,7 +22,7 @@ To read her full profile visit [her personal Acta Académica site](https://www.a
 
 Salem, United States of America 
 
-<img src="/assets/roopika_risam.jpg" width="500" height="401" alt="Profile image of Roopika Risam" title="Credit: William & Mary">
+<img src="/assets/roopika_risam.jpg" width="400" height="301" alt="Profile image of Roopika Risam" title="Credit: William & Mary">
 
 Dr. Risam is an Associate Professor of Secondary and Higher Education and English at Salem State University. She also serves as the Faculty Fellow for Digital Library Initiatives, Coordinator of the Graduate Certificate in Digital Studies, and Coordinator of the Combined B.A./M.Ed. in English Education. Her research interests lie at the intersections of postcolonial and African diaspora studies, humanities knowledge infrastructures, and digital humanities. The broader goal of her research is to call attention to the inequalities and biases arisen from the rapid digital knowledge production that are reproducing the print culture, and to work collaboratively with colleagues in different disciplines to redress them.
 
