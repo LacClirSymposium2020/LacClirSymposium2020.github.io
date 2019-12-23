@@ -4,7 +4,7 @@ title: Keynote Speakers
 language: en
 ---
 
-We are so happy to have two of the most importat current voices of the digital humanities field for out two-day event. 
+We are very grateful to have two of the most important current voices of the digital humanities field for our two-day event. 
 
 # Gimena del Rio Riande 
 
