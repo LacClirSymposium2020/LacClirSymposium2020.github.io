@@ -4,6 +4,18 @@ title: Keynote Speakers
 language: en
 ---
 
+We have invited several of the partner institutions in Latin America and the Caribbean that are currently working with academic institutions in the United States. In most cases, joint effort  is targeted to the digitization of collections in danger of disappearence due to environmental and/or political factors. The following institutions have already confirmed their attendance: 
+
+
+
+- Institut de Sauvegarde du Patrimoine National - ISPAN (Haiti)
+
+- Proceso de Comunidades Negras de Colombia (Colombia) 
+- National Institute of Culture and History (Belize) 
+- Fideicomiso Archivos Plutarco Elias Calles y Fernando Torreblanca (Mexico, D.F) 
+- National Library of Jamaica - NLJ (Jamaica) 
+- HeritEdge Connection - (Barbados)
+
 We are very grateful to have two of the most important current voices of the digital humanities field for our two-day event. 
 
 # Gimena del Rio Riande 
@@ -25,3 +37,4 @@ Dr. Risam is an Associate Professor of Secondary and Higher Education and Englis
 Her first monograpg [*New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*](http://www.roopikarisam.com/ndw) (2018) proposes a postcolonial DH approach to uncover and remediate inequalities in digital knowledge production. She is developing [*The Global Du Bois*](http://www.roopikarisam.com/global-du-bois) and is also a co-editor of [*Reviews in Digital Humanities*](http://www.roopikarisam.com/reviews).
 
 To read her full profile visit [her personal website](http://www.roopikarisam.com/about/) (available in English only).
+

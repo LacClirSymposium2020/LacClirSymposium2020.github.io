@@ -4,7 +4,17 @@ title: Conferenciantes principales
 language: es
 ---
 
-Estamos muy agradecidas de poder contar con dos de las voces actuales más importantes de las humanidades digitales para nuestro evento. 
+Hemos invitado a varias instituciones socias de Latinoamérica y el Caribe que están trabajando con instituciones académicas en los Estados Unidos. En la mayoría de los casos, el esfuerzo conjunto se enfoca en digitalizar colecciones en peligro de desaparecer por cuestiones medioambientales y/o políticas. Las instituciones que han confirmado su asistencia son: 
+
+- Instituti de salvaguardado del Patrimonio Nacional - ISPAN (Haití)
+
+- Proceso de Comunidades Negras de Colombia (Colombia) 
+- Instituto Nacional de cultura e historia (Belize) 
+- Fideicomiso Archivos Plutarco Elias Calles y Fernando Torreblanca (Mexico, D.F) 
+- Biblioteca Nacional de Jamaics (Jamaica) 
+- Conexión Patrimonial (HeritEdge)  (Barbados)
+
+Estamos además muy agradecidas de poder contar con dos de las voces actuales más importantes de las humanidades digitales para nuestro evento. 
 
 # Gimena del Rio Riande 
 

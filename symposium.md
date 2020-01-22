@@ -7,8 +7,9 @@ language: en
 # Florida International University 
 
 
+Tentative Schedule 
 
-| Thursday, April 16   |                                                 |
+| **Thursday, April 16**|                                                 |
 | -------------------- | :---------------------------------------------- |
 | 9:30am - 10:00am     | Welcome and Introductions                       |
 | 10:00am - 11:00am    | Archival projects and preservation efforts      |
