@@ -4,10 +4,8 @@ title: The Symposium
 language: en
 ---
 
-# Florida International University 
 
-
-Tentative Schedule 
+This is the tentative schedule for the symposium: 
 
 | **Thursday, April 16**|  |
 | -------------------- | :---------------------------------------------- |
