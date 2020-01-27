@@ -29,6 +29,8 @@
     </nav>
 
    <!-- ORIGINAL  -->
+   <!-- This is only creating the link of change of language in the main page or "index" thus the rest doesn't work  -->
+   
      <nav class="language-switcher">
       {% if page.name contains "index" %}
         <a class="en" href="{{ site.baseurl }}/">EN</a>
@@ -40,7 +42,25 @@
         <a class="fr" href="{{ site.baseurl | append: "/fr" | append: page.handle }}">FR</a>
       {% endif %}
     </nav> 
+
+
+    <nav class="language-switcher">
+      {% if page.name contains "speakers" %}
+        <a class="en" href="{{ site.baseurl }}/">EN</a>
+        <a class="es" href="{{ site.baseurl | append: "/es" }}">ES</a>
+        <a class="fr" href="{{ site.baseurl | append: "/fr" }}">FR</a>
+      {% else %}
+        <a class="en" href="{{ site.baseurl | append: page.handle }}">EN</a> 
+        <a class="es" href="{{ site.baseurl | append: "/es" | append: page.handle }}">ES</a>
+        <a class="fr" href="{{ site.baseurl | append: "/fr" | append: page.handle }}">FR</a>
+      {% endif %}
+    </nav> 
  
+
+
+
+
+
  <!-- Different from Original, to see if it fixes the issue of not switching between languages 
     <nav class="language-switcher"> 
       {% if page.name contains "index" %}
