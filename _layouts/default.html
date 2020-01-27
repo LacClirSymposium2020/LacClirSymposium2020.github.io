@@ -29,8 +29,8 @@
     </nav>
 
    <!-- ORIGINAL  -->
-   <!-- This is only creating the link of change of language in the main page or "index" thus the rest doesn't work. 
-    Adding a whole block with different page.name doesn't fix the issue. It doubles language bar  -->
+   <!-- This is only creating the link of change of language in the main page or "index" thus the rest doesn't work .
+      Adding a whole block with different page.name doesn't fix the issue. It doubles language bar  --> 
    
      <nav class="language-switcher">
       {% if page.name contains "index" %}
@@ -43,6 +43,9 @@
         <a class="fr" href="{{ site.baseurl | append: "/fr" | append: page.handle }}">FR</a>
       {% endif %}
     </nav> 
+
+
+
 
 
  <!-- Different from Original, to see if it fixes the issue of not switching between languages 
