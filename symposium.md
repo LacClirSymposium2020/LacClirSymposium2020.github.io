@@ -23,4 +23,4 @@ This is the tentative schedule for the symposium:
 | 03:00 - 04:00pm | Tour of the exhibitions at The Wolfsonian-FIU Museum |
 | 04:00 - 6:00pm | Reception |
 
-The symposium will take place at [The Frost Art Museum](https://frost.fiu.edu), for its significant collection of Latin American art, and at [The Wolfsonian Museum](https://wolfsonian.org) in the heart of Art Deco District of Miami Beach. 
+The symposium will take place at [The Frost Art Museum](https://frost.fiu.edu), for its significant collection of Latin American art, and at [The Wolfsonian Museum](https://wolfsonian.org) in the heart of Art Deco District of Miami Beach. We are thankful to the The Wolfsonian Public Humanities Lab for their collaboration in securing the venues. 

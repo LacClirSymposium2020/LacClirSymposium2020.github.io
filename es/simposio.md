@@ -22,3 +22,4 @@ Este es el programa preliminar del simposio:
 | 03:00 - 04:00pm          | Tour de las exhibiciones en el Museo Wolfsonian-FIU          |
 | 04:00-06:00pm            | Cóctel de clausura                                           |
 
+El simposio tendrá lugar en el [Museo de Arte Frost](https://frost.fiu.edu/), el cual salvaguarda una gran colección de arte de Latinoamérica, y en el [Museo Wolfsonian](https://wolfsonian.org/) en el centro del distrito Art Deco de Miami Beach. Agradecemos al Laboratorio de Humanidades Públicas Wolfsonian su colaboración para conseguir estos espacios.

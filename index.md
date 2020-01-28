@@ -17,7 +17,5 @@ Organized by:
 
 - Hadassah St. Hubert, Florida International University
 - [Jennifer Isasi](https://dr.jenniferisasi.com), The University of Texas at Austin 
-
 - Nicté Fuller Medina, The University of California, Los Angeles
-
 - Margie Montañez, The University of New Mexico
