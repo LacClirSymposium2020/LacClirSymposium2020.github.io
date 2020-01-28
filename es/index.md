@@ -11,9 +11,7 @@ Este proyecto está financiado por una Microbeca CLIR con el generoso apoyo de l
 Organizado por:
 
 - Hadassah St. Hubert, Universidad Internacional de Florida
-- [Jennifer Isasi](https://dr.jenniferisasi.com), Universidad de Texas en Austin.
-
+- Jennifer Isasi](https://dr.jenniferisasi.com), Universidad de Texas en Austin.
 - Nicté Fuller Medina, Universidad de California, Los Ángeles.
-
 - Margie Montañez, Universidad de Nuevo México.
 
