@@ -6,8 +6,6 @@ language: en
 
 We have invited several of the partner institutions in Latin America and the Caribbean that are currently working with academic institutions in the United States. In most cases, joint effort  is targeted to the digitization of collections in danger of disappearence due to environmental and/or political factors. The following institutions have already confirmed their attendance: 
 
-
-
 - Institut de Sauvegarde du Patrimoine National - ISPAN (Haiti)
 
 - Proceso de Comunidades Negras de Colombia (Colombia) 
