@@ -8,19 +8,19 @@ Programme provisoire du colloque :
 
 | **Jeudi 16 avril**    |                                                              |
 | --------------------- | ------------------------------------------------------------ |
-| 09 :30 - 10 :00       | Accueil et Introductions                                     |
-| 10 :00 - 11 :15       | Projets Archivistiques et les  efforts de conservations      |
-| 11 :30 - 12 :30       | Oratrice Principale Gimena del Rio Riande                    |
-| 12h - 13 :30          | Repas du midi                                                |
-| 13 :30 - 16h          | Discussion : Conclusions du sondage par les Boursiers CLIR   |
+| 09:30 - 10:00am       | Accueil et Introductions                                     |
+| 10:00 - 11:15am       | Projets Archivistiques et les  efforts de conservations      |
+| 11:30 - 12:30pm       | Oratrice Principale Gimena del Rio Riande                    |
+| 12:00 - 01:30pm       | Repas du midi                                                |
+| 01:30 - 04:00pm       | Discussion : Conclusions du sondage par les Boursiers CLIR   |
 | **Vendredi 17 avril** |                                                              |
-| 9 :30 - 10 :00        | Accueil et Introductions                                     |
-| 10h - 11h             | Oratrice Principale Roopika  Risam                           |
-| 11 :30 – 12 :30       | Bailleurs de Fonds Panel sur la Préservation du Patrimoine Culturel |
-| 12 :30 – 13 :30       | Repas du midi                                                |
-| 13 :30 – 15h          | Discussion de Clôture au sujet des Recommandations           |
-| 15h – 16h             | Visite guidée des expositions  à Wolfsonian-FIU Museum       |
-| 16h – 18h             | Réception                                                    |
+| 09:30 - 10:00am       | Accueil et Introductions                                     |
+| 10:00 - 11:00am       | Oratrice Principale Roopika  Risam                           |
+| 11:30 - 12:30pm       | Bailleurs de Fonds Panel sur la Préservation du Patrimoine Culturel |
+| 12:30 - 01:30pm       | Repas du midi                                                |
+| 01:30 - 03:00pm       | Discussion de Clôture au sujet des Recommandations           |
+| 03:00 - 04:00pm       | Visite guidée des expositions  à Wolfsonian-FIU Museum       |
+| 04:00 - 06:00pm       | Réception                                                    |
 
  
 
