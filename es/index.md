@@ -1,7 +1,7 @@
 ---
 layout: default
 title: El proyecto
-language: ES
+language: es
 ---
 
 Este simposio centrará las voces de un grupo de archivos en América Latina y el Caribe al proporcionar un foro en el que las partes interesadas de la región se puedan reunir para compartir estrategias e identificar áreas comunes de necesidad. Esto sale del modelo neoliberal de archivo postcustodial y crea una oportunidad para que el archivo digital sea impulsado por archivos, bibliotecas y académicos en América Latina y el Caribe. Se formularán recomendaciones para trabajar con archivos y bibliotecas en la región en función de las necesidades de estos productores de contenido y los desafíos particulares que enfrentan en sus respectivas regiones.
