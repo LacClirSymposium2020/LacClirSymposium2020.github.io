@@ -10,7 +10,7 @@ Este proyecto está financiado por una Microbeca CLIR con el generoso apoyo de l
 
 Organizado por:
 
-- Hadassah St. Hubert, Universidad Internacional de Florida
+- [Hadassah St. Hubert](https://www.linkedin.com/in/hadassah-st-hubert-ph-d-03b2362a/), Universidad Internacional de Florida
 - [Jennifer Isasi](https://dr.jenniferisasi.com), Universidad de Texas en Austin.
 - [Nicté Fuller Medina](https://nfullerm.wixsite.com/website), Universidad de California, Los Ángeles.
 - Margie Montañez, Universidad de Nuevo México.
