@@ -15,8 +15,9 @@ Organizado por:
 - [Nicté Fuller Medina](https://nfullerm.wixsite.com/website), Universidad de California, Los Ángeles.
 - Margie Montañez, Universidad de Nuevo México.
 
-Si quiere atender, por favor RSVP: 
+Si quiere asistir, por favor RSVP: 
 
 16 de abril: [https://bit.ly/37zuUGc](https://bit.ly/37zuUGc) 
 
-17 de abril:  https://bit.ly/37vAWHW
+17 de abril:  [https://bit.ly/37vAWHW](https://bit.ly/37vAWHW)
+
