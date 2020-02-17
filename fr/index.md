@@ -15,3 +15,8 @@ Organisé par:
 - [Nicté Fuller Medina](https://nfullerm.wixsite.com/website), The University of California, Los Angeles
 - Margie Montañez, The University of New Mexico
 
+Si vous souhaitez y assister, veuillez confirmer votre présence: 
+
+16 avril: [https://bit.ly/37zuUGc](https://bit.ly/37zuUGc)
+
+17 avril: [https://bit.ly/37vAWHW](https://bit.ly/37vAWHW)
