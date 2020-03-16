@@ -4,7 +4,7 @@ title: The project
 language: en
 ---
 
-As a result of the developments in the spread of COVID-19, we have decided to make our symposium virtual, still on April 16th and 17th. We will update this site with a revised agenda and links to our virtual meeting soon. 
+As a result of the developments in the spread of COVID-19, we have decided to make our symposium **virtual**, still on April 16th and 17th. We will update this site with a revised agenda and links to our virtual meeting soon. 
 
 This symposium will center the voices of a group of archives in Latin America and the Caribbean by providing a forum for stakeholders in the region to come together in conversation to share strategies and identify common areas of need. This steps outside the neoliberal model of post-custodial archiving and creates an opportunity for digital archiving to be driven by archives, libraries, and scholars in Latin America and the Caribbean. Recommendations for working with archives and libraries in the region will be formulated by these stakeholders based on the needs of these content producers and the particular challenges faced in their respective regions.
 

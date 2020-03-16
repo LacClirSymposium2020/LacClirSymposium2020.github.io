@@ -4,7 +4,7 @@ title: El proyecto
 language: es
 ---
 
-Debido a la evolución del COVID-19, hemos decidido seguir adelante con simposio de forma virtual, los días 16 y 17 de abril. Actualizaremos la página con un programa revisado y los enlaces a nuestras reuniones virtuales.   
+Debido a la evolución del COVID-19, hemos decidido seguir adelante con simposio de forma **virtual**, los días 16 y 17 de abril. Actualizaremos la página con un programa revisado y los enlaces a nuestras reuniones virtuales.   
 
 
 
