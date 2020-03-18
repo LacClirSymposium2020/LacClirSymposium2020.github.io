@@ -4,7 +4,9 @@ title: Le projet
 language: fr
 ---
 
-Suite aux développements de la diffusion de COVID-19, nous avons décidé de rendre notre symposium **virtuel**, toujours les 16 et 17 avril. Nous mettrons à jour ce site avec un ordre du jour révisé et des liens vers notre réunion virtuelle bientôt.
+Nous surveillons activement les développements concernant le virus COVID-19. Avec la progression du virus nous avons pris la décision de présenter le colloque « Évaluation des capacités des partenaires d'Amérique Latine et des Caraïbes » virtuellement. Le colloque virtuel aura lieu Jeudi le 16 Avril et Vendredi le 17 Avril. Nous vous contacterons bientôt avec le programme révisé. 
+
+---
 
 Ce colloque portera surtout sur les expériences des archives en Amérique Latine et les Caraïbes en offrant un forum aux intervenants de la région l’opportunité de se rassembler et d’avoir des conversations où ils auront la chance de discuter les stratégies et d’identifier leurs besoins communs. Cette conception est en dehors du modèle néo-libéral de l’archivage post-custodial et fournit une opportunité de créér l’archivage numérique axé sur les archives, bibliothèques, et les scolaires en Amérique Latine et les Caraïbes. Des recommandations pour les collaborations avec les archives et bibliothèques dans la région seront formulées par les intervenants et seront basées à partir des besoins de ce qui créa les contenu des archives et bibliothèques et aussi les obstacles spécifiques dans leurs régions individuelles. 
 
