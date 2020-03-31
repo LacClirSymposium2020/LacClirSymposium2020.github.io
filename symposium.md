@@ -14,7 +14,7 @@ After the conversion of the face-to-face symposium to digital format due to the 
 
 12:30 - 01:30pm  Lunch with Frost Art Museum Virtual Tour [**https://fiu.zoom.us/j/720944402**](https://fiu.zoom.us/j/720944402)
 
-01:30 - 2:30pm  Keynote Speaker Gimena del Rio Riande [**https://fiu.zoom.us/j/140565604**](https://fiu.zoom.us/j/140565604)
+01:30 - 02:30pm  Keynote Speaker Gimena del Rio Riande [**https://fiu.zoom.us/j/140565604**](https://fiu.zoom.us/j/140565604)
 
 **Friday, April 17**
 
