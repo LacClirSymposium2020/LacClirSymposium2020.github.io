@@ -4,7 +4,7 @@ title: Le symposium
 language: fr
 ---
 
-Après la conversion du symposium en face-à-face au format numérique en raison des restrictions causées par COVID-19 et pour mieux s'adapter aux différentes utilisations du temps, le programme du symposium se reflète comme suit, avec l'heure de l'Est des États-Unis:
+Après la conversion du symposium en face-à-face au format numérique en raison des restrictions causées par COVID-19 et pour mieux s'adapter aux différentes utilisations du temps, le programme du symposium se reflète comme suit, avec l’heure de Miami, Florida:
 
 **Jeudi 16 avril**
 
