@@ -15,7 +15,7 @@ The project is funded by a [CLIR Microgrant](https://www.clir.org/fellowships/po
 Organized by: 
 
 - [Hadassah St. Hubert](https://www.linkedin.com/in/hadassah-st-hubert-ph-d-03b2362a/), Florida International University
-- [Jennifer Isasi](https://dr.jenniferisasi.com), The University of Texas at Austin 
+- [Jennifer Isasi](https://jenniferisasi.github.io), The University of Texas at Austin 
 - [Nicté Fuller Medina](https://nfullerm.wixsite.com/website), The University of California, Los Angeles
 - Margie Montañez, The University of New Mexico
 
