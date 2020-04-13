@@ -24,7 +24,7 @@ Après la conversion du symposium en face-à-face au format numérique en raison
 
 11:30 - 01:00pm  Repas du midi
 
-01:00 - 02:00pm  Oratrice Principale Roopika Risam [**https://fiu.zoom.us/j/311483160**](https://fiu.zoom.us/j/311483160) 
+01:00 - 02:00pm  ANNULÉ - Oratrice Principale Roopika Risam
 
 02:00 - 02:45pm  Discussion de Clôture au sujet des Recommandations [**https://fiu.zoom.us/j/740554877**](https://fiu.zoom.us/j/740554877)  
 

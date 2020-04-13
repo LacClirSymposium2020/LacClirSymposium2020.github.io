@@ -24,7 +24,7 @@ Tras la conversión del simposio presencial al formato digital por las restricci
 
 11:30 - 01:00pm  Almuerzo
 
-01:00 - 02:00pm  Conferencianta principal Roopika Risam [**https://fiu.zoom.us/j/311483160**](https://fiu.zoom.us/j/311483160) 
+01:00 - 02:00pm  CANCELADO - Conferencianta principal Roopika Risam
 
 02:00 - 02:45pm  Discusión final con recomendaciones [**https://fiu.zoom.us/j/740554877**](https://fiu.zoom.us/j/740554877)
 

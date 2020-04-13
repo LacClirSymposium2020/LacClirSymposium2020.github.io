@@ -24,7 +24,7 @@ After the conversion of the face-to-face symposium to digital format due to the 
 
 11:30 - 01:00pm  Lunch
 
-01:00 - 02:00pm  Keynote Speaker Roopika Risam [**https://fiu.zoom.us/j/311483160**](https://fiu.zoom.us/j/311483160)
+01:00 - 02:00pm CANCELLED  Keynote Speaker Roopika Risam
 
 02:00 - 02:45pm  Final Discussion on Recommendations  [**https://fiu.zoom.us/j/740554877**](https://fiu.zoom.us/j/740554877) 
 
