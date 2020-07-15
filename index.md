@@ -19,9 +19,9 @@ Organized by:
 - [Nicté Fuller Medina](https://nfullerm.wixsite.com/website), The University of California, Los Angeles
 - Margie Montañez, The University of New Mexico
 
+<img src="/assets/clir-postdocs.jpg" width="100%" alt="Photo of the Symposium organizers" title="Margie, Hadassah, Jennifer and Nicté">
 
-
-**Our symposium was featured on CLIR News in July!** 
+## Our symposium was featured on CLIR News in July!
 
 [A Symposium to Center Latin American and Caribbean Partners](https://www.clir.org/2020/07/a-symposium-to-center-latin-american-and-caribbean-partners/)
 
