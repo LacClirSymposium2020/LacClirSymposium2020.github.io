@@ -4,29 +4,29 @@ title: The Symposium
 language: en
 ---
 
-After the conversion of the face-to-face symposium to digital format due to the restrictions caused by COVID-19 and to best accommodate different time uses, the symposium program is reflected as follows, with Eastern United States time:
+After the conversion of the face-to-face symposium to digital format due to the restrictions caused by COVID-19 and to best accommodate different time uses, the symposium program was recorded and you can watch it again:
 
 **Thursday, April 16**
 
 10:30 - 11:00am  Welcome and Introductions
 
-11:00 - 12:30am  Archival projects and preservation efforts [**https://fiu.zoom.us/j/796746290**](https://fiu.zoom.us/j/796746290)
+11:00 - 12:30am  [Archival projects and preservation efforts](https://www.facebook.com/watch/live/?v=933081897132867&ref=watch_permalink) 
 
-12:30 - 01:30pm  Lunch with Frost Art Museum Virtual Tour [**https://fiu.zoom.us/j/720944402**](https://fiu.zoom.us/j/720944402)
+12:30 - 01:30pm  [Lunch with Frost Art Museum Virtual Tour](https://www.facebook.com/dlocaribbean/videos/220714472595923/) 
 
-01:30 - 02:30pm  Keynote Speaker Gimena del Rio Riande [**https://fiu.zoom.us/j/140565604**](https://fiu.zoom.us/j/140565604)
+01:30 - 02:30pm  [Keynote Speaker Gimena del Rio Riande](https://www.facebook.com/dlocaribbean/videos/236070804417856/) 
 
 **Friday, April 17**
 
 09:30 - 10:00am  Welcome
 
-10:00 - 11:30am  Funders Panel on Cultural Heritage Preservation [**https://fiu.zoom.us/j/705809638**](https://fiu.zoom.us/j/705809638) 
+10:00 - 11:30am  [Funders Panel on Cultural Heritage Preservation](https://www.facebook.com/dlocaribbean/videos/812093122619903/) 
 
 11:30 - 01:00pm  Lunch
 
-01:00 - 02:00pm CANCELLED  Keynote Speaker Roopika Risam
+01:00 - 02:00pm  Keynote Speaker Roopika Risam - July 28 3pm EST
 
-02:00 - 02:45pm  Final Discussion on Recommendations  [**https://fiu.zoom.us/j/740554877**](https://fiu.zoom.us/j/740554877) 
+02:00 - 02:45pm  [Final Discussion on Recommendations]()  
 
 
 
