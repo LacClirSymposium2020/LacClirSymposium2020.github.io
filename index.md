@@ -4,7 +4,7 @@ title: The project
 language: en
 ---
 
-As a result of the developments in the spread of COVID-19, we have decided to make our symposium **virtual**, still on April 16th and 17th. We will update this site with a revised agenda and links to our virtual meeting soon. 
+As a result of the developments in the spread of COVID-19, we have decided to make our symposium **virtual**, still on April 16th and 17th. However, Dr. Roopika Risam will do her keynote on July 28th at 3PM EST. If you would like to attend her talk, please RSVP on our [Eventbrite registration](https://www.eventbrite.com/e/capacity-assessment-of-latin-american-and-caribbean-partners-symposium-pt2-tickets-113551341118?aff=ebdssbonlinesearch). 
 
 ---
 
@@ -19,8 +19,11 @@ Organized by:
 - [Nicté Fuller Medina](https://nfullerm.wixsite.com/website), The University of California, Los Angeles
 - Margie Montañez, The University of New Mexico
 
-If you would like to attend, please RSVP: 
 
-April 16:[ https://bit.ly/37zuUGc](https://bit.ly/37zuUGc)
 
-April 17:[ https://bit.ly/37vAWHW](https://bit.ly/37vAWHW)
+**Our symposium was featured on CLIR News in July!** 
+
+[A Symposium to Center Latin American and Caribbean Partners](https://www.clir.org/2020/07/a-symposium-to-center-latin-american-and-caribbean-partners/)
+
+[Adapting a Transnational Symposium to a Virtual Environment](https://www.clir.org/2020/07/adapting-a-transnational-symposium-to-a-virtual-environment/) 
+
