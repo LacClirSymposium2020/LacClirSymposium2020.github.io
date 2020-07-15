@@ -21,7 +21,7 @@ Organized by:
 
 <img src="/assets/clir-postdocs.jpg" width="100%" alt="Photo of the Symposium organizers" title="Margie, Hadassah, Jennifer and Nicté">
 
-## Our symposium was featured on CLIR News in July!
+## Our symposium was featured on CLIR News!
 
 [A Symposium to Center Latin American and Caribbean Partners](https://www.clir.org/2020/07/a-symposium-to-center-latin-american-and-caribbean-partners/)
 
