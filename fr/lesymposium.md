@@ -4,29 +4,29 @@ title: Le symposium
 language: fr
 ---
 
-Après la conversion du symposium en face-à-face au format numérique en raison des restrictions causées par COVID-19 et pour mieux s'adapter aux différentes utilisations du temps, le programme du symposium se reflète comme suit, avec l’heure de Miami, Florida:
+Après la conversion du symposium en face-à-face au format numérique en raison des restrictions causées par COVID-19 et pour accueillir ceux qui ne pouvaient pas y assister ou pour référence future, le programme du symposium a été enregistré et est disponible sur Facebook:
 
 **Jeudi 16 avril**
 
 10:30 - 11:00am  Accueil et Introductions
 
-11:00 - 12:30am  Projets Archivistiques et les  efforts de conservations [**https://fiu.zoom.us/j/796746290**](https://fiu.zoom.us/j/796746290) 
+11:00 - 12:30am  [Projets Archivistiques et les  efforts de conservations](https://www.facebook.com/watch/live/?v=933081897132867&ref=watch_permalink) 
 
-12:30 - 01:30pm  Repas du midi et Frost Art Museum Virtual Tour [**https://fiu.zoom.us/j/720944402**](https://fiu.zoom.us/j/720944402) 
+12:30 - 01:30pm  [Repas du midi et Frost Art Museum Virtual Tour](https://www.facebook.com/dlocaribbean/videos/220714472595923/) 
 
-01:30 - 02:30pm  Oratrice Principale Gimena del Rio Riande [**https://fiu.zoom.us/j/140565604**](https://fiu.zoom.us/j/140565604) 
+01:30 - 02:30pm  [Oratrice Principale Gimena del Rio Riande](https://www.facebook.com/dlocaribbean/videos/236070804417856/) 
 
 **Vendredi 17 avril**
 
 09:30 - 10:00am  Accueil 
 
-10:00 - 11:30am  Bailleurs de Fonds Panel sur la Préservation du Patrimoine Culturel [**https://fiu.zoom.us/j/705809638**](https://fiu.zoom.us/j/705809638) 
+10:00 - 11:30am  [Bailleurs de Fonds Panel sur la Préservation du Patrimoine Culturel](https://www.facebook.com/dlocaribbean/videos/812093122619903/) 
 
 11:30 - 01:00pm  Repas du midi
 
 01:00 - 02:00pm  ANNULÉ - Oratrice Principale Roopika Risam
 
-02:00 - 02:45pm  Discussion de Clôture au sujet des Recommandations [**https://fiu.zoom.us/j/740554877**](https://fiu.zoom.us/j/740554877)  
+02:00 - 02:45pm  [Discussion de Clôture au sujet des Recommandations](https://www.facebook.com/dlocaribbean/videos/555629578421891/) 
 
 
 

@@ -4,7 +4,7 @@ title: The Symposium
 language: en
 ---
 
-After the conversion of the face-to-face symposium to digital format due to the restrictions caused by COVID-19 and to best accommodate different time uses, the symposium program was recorded and you can watch it again:
+After the conversion of the face-to-face symposium to digital format due to the restrictions caused by COVID-19 and to accommodate for those who couldn't attend or for future reference, the symposium program was recorded and is available on Facebook:
 
 **Thursday, April 16**
 
@@ -26,7 +26,7 @@ After the conversion of the face-to-face symposium to digital format due to the 
 
 01:00 - 02:00pm  Keynote Speaker Roopika Risam - July 28 3pm EST
 
-02:00 - 02:45pm  [Final Discussion on Recommendations]()  
+02:00 - 02:45pm  [Final Discussion on Recommendations](https://www.facebook.com/dlocaribbean/videos/555629578421891/)  
 
 
 
